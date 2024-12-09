@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ricaralo98
+👋 Hi, I’m @ricaralo98
 
 <!---
 ricaralo98/ricaralo98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
